@@ -1,0 +1,27 @@
+.card-bg {
+    background-color: #e9ecef;
+    height: 300px;
+    margin: 50px;
+    padding: 10px;
+}
+
+footer {
+    background-color: #212529;
+    color: #ffffff;
+    height: 50px;
+}
+
+.cont-sec {
+    width: 1300px;
+    padding: 50px;
+}
+
+
+
+.card-1 {
+    height: 500px;
+    width: 300px;
+    padding: 10px;
+    margin: 50px;
+    font-size: 14px;
+}
